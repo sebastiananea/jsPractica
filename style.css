@@ -1,0 +1,16 @@
+
+.esconder{
+    display: none;
+}
+
+.opciones{
+    display: flex;
+    max-width: 1200px;
+}
+
+.opciones img{
+    height: 300px;
+    width: 350px;
+}
+
+
